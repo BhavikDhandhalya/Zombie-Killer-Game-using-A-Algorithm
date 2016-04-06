@@ -1,0 +1,73 @@
+1. creating display [main]
+
+2. creating tiles [tiles]
+
+3. displaying tiles [main, tiles]
+
+4. giving text or number to tiles [Funk, main]
+
+5. creating Characters [object_classes]
+
+6. Displaying Characters [object_classes, main]
+
+7. Checking get_number Method for Characters [object_calasses]
+
+8. Adding movement to our Characters [interaction]
+
+9. Detecting keys [interaction]
+
+10. Making obstacles tiles using Mouse event[interaction]
+
+11. A-Star Algo 
+
+-------------- A-star Start ---------------
+
+12. displaying F, G, H distant to screen [A-star]
+
+13. Printing all surrounding tiles [A-star]
+
+14. printing heuristic Values [A-star]
+
+15. printing path zombie to player [A-star]
+
+16. Setting movement of zombie [A-star]
+
+-------------- A-star ends ----------------
+
+17. Creating Map or Background [tileC]
+
+18. Creating spawn tiles [object_classes]
+
+Optional 19. Output of Spawn tiles
+
+20. Putting Images [main, object_classes]
+
+21. Creating bullets [main, object_classes]
+
+22. Adding Audio Files [main]
+
+23. Attacking Zombies - Game
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
