@@ -11,7 +11,7 @@ pygame.font.init() #displaying font in screen
 pygame.mixer.init() #initializing mixed components of pygame
 
 pygame.mixer.music.load('audio/zombie_theme.ogg')
-pygame.mixer.music.play(-1)
+pygame.mixer.music.play(-1) #-1 means the music will play infinite times until the game stop
 
 screen = pygame.display.set_mode((704, 448)) # 32, 32  #creating display
 
